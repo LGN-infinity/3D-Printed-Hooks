@@ -1,4 +1,7 @@
 # 3D-Printed-Hooks
 An assortment of command strip compatible printed hook designs
 
-I used 5mm walls and printed it on its side, removed the top and bottom walls so that the infill pattern could show because it looks cool
+## POLY HOOK Settings
+- Print on it's side
+- 5mm Walls
+- (Optional) remove top and bottom walls to show infill
